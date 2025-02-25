@@ -1,4 +1,4 @@
-# 🌍 Geoinnova Formación
+# 🌍 Mi portfolio GIS
 
 <nav>
   <a href="./">🏠 Inicio</a> |
