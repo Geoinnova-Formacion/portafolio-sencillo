@@ -1,3 +1,7 @@
 # 🌍 Mi Portafolio SIG
 
-🏠 [Inicio](./) | 📂 [Proyectos](./proyectos) | 🧑‍💻 [Sobre Mí](./about)
+<nav>
+  <a href="./">🏠 Inicio</a> |
+  <a href="./proyectos">📂 Proyectos</a> |
+  <a href="./about">🧑‍💻 Sobre Mí</a>
+</nav>
