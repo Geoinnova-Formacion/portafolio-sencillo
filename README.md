@@ -4,7 +4,7 @@
 
 ## 🗺️ Proyectos Destacados
 - **Mapa de Cobertura Vegetal** 🌱  
-  [Ver proyecto](https://github.com/Geoinnova-Formacion/portafolio-sencillo/proyectos/proyecto1.md)
+  [Ver proyecto](proyectos/proyecto1.md)
 - **Análisis de Impacto Ambiental** 🌍  
   [Ver proyecto](https://github.com/usuario/proyecto2)
 
