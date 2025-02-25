@@ -5,8 +5,6 @@
 ## 🗺️ Proyectos Destacados
 - **Mapa de Cobertura Vegetal** 🌱  
   [Ver proyecto](proyectos/proyecto1.md)
-- **Análisis de Impacto Ambiental** 🌍  
-  [Ver proyecto](https://github.com/usuario/proyecto2)
 
 ## 📬 Contacto
 📧 Email: formacion@geoinnova.org
