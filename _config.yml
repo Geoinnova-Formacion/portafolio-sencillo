@@ -1,3 +1,10 @@
 title: "Portafolio SIG - Geoinnova"
 description: "Proyectos SIG realizados en el Máster de Código Abierto"
 theme: jekyll-theme-cayman
+navigation:
+  - title: "Inicio"
+    url: "/"
+  - title: "Proyectos"
+    url: "/proyectos"
+  - title: "Sobre Mí"
+    url: "/about"
