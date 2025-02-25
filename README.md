@@ -1,4 +1,4 @@
-# 🌍 Portafolio SIG - Geoinnova Formación
+# 🌍 Geoinnova Formaciónhttps://github.com/Geoinnova-Formacion/portafolio-sencillo/blob/main/README.md
 
 👋 ¡Hola! Soy Geoinnova formación0.  Este portafolio es un ejemplo sencillo de lo que podemos hacer con Github para mostrar trabajos.
 
