@@ -1,4 +1,4 @@
-# 🌍 Mi Portafolio SIG
+# 🌍 Geoinnova Formación
 
 <nav>
   <a href="./">🏠 Inicio</a> |
