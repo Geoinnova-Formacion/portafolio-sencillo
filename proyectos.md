@@ -6,7 +6,7 @@ layout: default
 
 Aquí puedes ver algunos de mis proyectos de análisis espacial y cartografía.
 
-## Espacios Naturales de Lanzarote
+## Proyecto 1: Espacios Naturales de Lanzarote
 ![Mapa Vegetación](proyectos/imagenes/mapa_proyecto1.png)
 📌 [Ver más detalles](proyectos/proyecto1)
 
