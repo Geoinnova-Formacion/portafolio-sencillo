@@ -1,14 +1,18 @@
-# 🌍 Proyecto 1: Análisis de Cobertura Vegetal
+# 🌍 Proyecto 1: Espacios naturales de Lanzarote
 
 📌 **Descripción**  
-Este proyecto evalúa los cambios en la cobertura vegetal en los últimos 10 años usando imágenes satelitales en QGIS.
+Como parte de una práctica introductoria en cartografía SIG, se propuso representar las principales figuras de protección ambiental en Lanzarote mediante un mapa temático claro y funcional.
 
 🛠 **Tecnologías usadas**  
 - QGIS
-- Sentinel-2
-- Python (Raster Analysis)
 
-📷 **Mapa del análisis**  
+⚙️**Proceso técnico**
+Se trabajó con capas vectoriales categorizadas por tipo de protección, aplicando simbología, etiquetas y elementos gráficos esenciales en el diseñador de impresión de QGIS.
+
+📈 **Resultado**
+Mapa final exportado en formato A4, visualmente claro y adecuado para tareas educativas y de divulgación ambiental.
+
+🗺️ **Mapa del análisis**  
 ![Mapa de cobertura](../proyectos/imagenes/mapa_proyecto1.png)
 
 🔗 **Ver más detalles**  
