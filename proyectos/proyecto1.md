@@ -13,7 +13,7 @@ Se trabajó con capas vectoriales categorizadas por tipo de protección, aplican
 Mapa final exportado en formato A4, visualmente claro y adecuado para tareas educativas y de divulgación ambiental.
 
 🗺️ **Mapa del análisis**  
-![Mapa de cobertura](../proyectos/imagenes/mapa_proyecto1.png)
+![Mapa de cobertura](../proyectos/imagenes/Proyecto1.jpg)
 
 🔗 **Ver más detalles**  
 [Repositorio del código](https://github.com/usuario/proyecto1)
