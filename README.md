@@ -1,6 +1,6 @@
 # 🌍 Geoinnova Formación
 
-👋 ¡Hola! Soy Geoinnova formación.  
+👋 ¡Hola! Somos Geoinnova formación.  
 
 
 En Geoinnova Formación creemos que aprender significa hacer. Por eso, todos nuestros programas formativos en Sistemas de Información Geográfica (SIG) están diseñados con una metodología práctica, aplicada y basada en la resolución de problemas reales.
