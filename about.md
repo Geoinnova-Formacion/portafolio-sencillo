@@ -4,7 +4,7 @@ layout: default
 ---
 # 👋 Sobre Mí
 
-¡Hola! Soy [Tu Nombre], especialista en SIG y apasionado de la cartografía digital.
+¡Hola! Somos Geoinnova Formación, especialistas en formación SIG y apasionados por las geotecnologías.
 
 ## 🎓 Formación
 - Máster en SIG y Código Abierto - Geoinnova
