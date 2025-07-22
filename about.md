@@ -1,8 +1,8 @@
 ---
-title: "Sobre Mí"
+title: "Sobre nosotros"
 layout: default
 ---
-# 👋 Sobre Mí
+# 👋 Sobre nosotros
 
 ¡Hola! Somos Geoinnova Formación, especialistas en formación SIG y apasionados por las geotecnologías.
 
