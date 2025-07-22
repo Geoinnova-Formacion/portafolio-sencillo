@@ -3,7 +3,7 @@
 <nav>
   <a href="./">🏠 Inicio</a> |
   <a href="./proyectos">📂 Proyectos</a> |
-  <a href="./about">🧑‍💻 Sobre nosotros</a>
+  <a href="./about"> Sobre nosotros</a>
 </nav>
  
 ## 🗺️ Proyectos Destacados
