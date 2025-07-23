@@ -1,5 +1,3 @@
-# 🌍 Portfolio GIS Geoinnova
-
 <nav>
   <a href="./">🏠 Inicio</a> |
   <a href="./proyectos">📂 Proyectos</a> |
