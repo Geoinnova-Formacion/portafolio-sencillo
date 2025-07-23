@@ -14,6 +14,3 @@ Mapa final exportado en formato A4, visualmente claro y adecuado para tareas edu
 
 🗺️ **Mapa del análisis**  
 ![Mapa de cobertura](../proyectos/imagenes/Proyecto1.jpg)
-
-🔗 **Ver más detalles**  
-[Repositorio del código](https://github.com/usuario/proyecto1)
